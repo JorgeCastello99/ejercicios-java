@@ -1,2 +1,2 @@
 # ejercicios-java
-Ejercicios realizados en el primer año del  Cliclo de Grado Superior
+Ejercicios realizados en el Cliclo de Grado Superior de Desarrollo de aplicaciones multiplataforma.
